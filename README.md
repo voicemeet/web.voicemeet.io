@@ -2,8 +2,10 @@
 
 > Meet the World through Voice.
 
-[![Dispatch (Push)](https://github.com/VoiceMeet/voicemeet/actions/workflows/dispatch-push.yml/badge.svg)](https://github.com/VoiceMeet/voicemeet/actions/workflows/dispatch-push.yml)
-[![Dispatch (PR)](https://github.com/VoiceMeet/voicemeet/actions/workflows/dispatch-pr.yml/badge.svg)](https://github.com/VoiceMeet/voicemeet/actions/workflows/dispatch-pr.yml)
+[![Test](https://github.com/voicemeet/releases/actions/workflows/test.yml/badge.svg)](https://github.com/voicemeet/releases/actions/workflows/test.yml)
+[![Test (PR)](https://github.com/voicemeet/releases/actions/workflows/test-pr.yml/badge.svg)](https://github.com/voicemeet/releases/actions/workflows/test-pr.yml)
+[![Release](https://github.com/VoiceMeet/releases/actions/workflows/release.yml/badge.svg)](https://github.com/VoiceMeet/releases/actions/workflows/release.yml)
+[![Build](https://github.com/VoiceMeet/releases/actions/workflows/build.yml/badge.svg)](https://github.com/VoiceMeet/releases/actions/workflows/build.yml)
 
 ## Version
 
